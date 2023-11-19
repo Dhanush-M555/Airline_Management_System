@@ -1,0 +1,121 @@
+60
+Bangalore
+Mumbai
+Delhi
+Chennai
+Kolkata
+Hyderabad
+Ahmedabad
+Pune
+Jaipur
+Lucknow
+Kochi
+Guwahati
+Nagpur
+Indore
+Bhopal
+Vadodara
+Coimbatore
+Patna
+Ranchi
+Vishakhapatnam
+Agra
+Amritsar
+Kanpur
+Surat
+Varanasi
+Bhubaneswar
+Thiruvananthapuram
+Ludhiana
+Madurai
+Nashik
+Faridabad
+Meerut
+Rajkot
+Jabalpur
+Srinagar
+Asansol
+Dhanbad
+Howrah
+Aurangabad
+Allahabad
+Amravati
+Jodhpur
+Ranchi
+Raipur
+Kozhikode
+Gwalior
+Goa
+Chandigarh
+Shimla
+Dehradun
+Jamshedpur
+Coorg
+Ooty
+Mangalore
+Mysuru
+Kanyakumari
+Tirupati
+Puducherry
+Kodaikanal
+
+200
+Bangalore Mumbai 120
+Bangalore Delhi 180
+Mumbai Delhi 150
+Mumbai Chennai 90
+Delhi Chennai 120
+Chennai Kolkata 120
+Kolkata Hyderabad 90
+Hyderabad Ahmedabad 120
+Ahmedabad Pune 60
+Pune Jaipur 90
+Jaipur Lucknow 120
+Lucknow Kochi 180
+Kochi Guwahati 180
+Guwahati Nagpur 120
+Nagpur Indore 60
+Indore Bhopal 30
+Bhopal Vadodara 60
+Vadodara Coimbatore 90
+Coimbatore Patna 180
+Patna Ranchi 60
+Ranchi Vishakhapatnam 120
+Vishakhapatnam Agra 180
+Agra Amritsar 120
+Amritsar Kanpur 90
+Kanpur Surat 180
+Surat Varanasi 60
+Varanasi Bhubaneswar 120
+Bhubaneswar Thiruvananthapuram 180
+Thiruvananthapuram Ludhiana 180
+Ludhiana Madurai 120
+Madurai Nashik 90
+Nashik Faridabad 120
+Faridabad Meerut 30
+Meerut Rajkot 120
+Rajkot Jabalpur 60
+Jabalpur Srinagar 180
+Srinagar Asansol 120
+Asansol Dhanbad 30
+Dhanbad Howrah 60
+Howrah Aurangabad 120
+Aurangabad Allahabad 60
+Allahabad Amravati 120
+Amravati Jodhpur 90
+Jodhpur Ranchi 120
+Ranchi Raipur 60
+Raipur Kozhikode 180
+Kozhikode Gwalior 120
+Goa Chandigarh 120
+Chandigarh Shimla 60
+Shimla Dehradun 90
+Dehradun Jamshedpur 120
+Jamshedpur Coorg 180
+Coorg Ooty 60
+Ooty Mangalore 120
+Mangalore Mysuru 30
+Mysuru Kanyakumari 90
+Kanyakumari Tirupati 60
+Tirupati Puducherry 120
+Puducherry Kodaikanal 90
